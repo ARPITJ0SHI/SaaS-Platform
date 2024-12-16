@@ -121,6 +121,3 @@ A full-stack SaaS (Software as a Service) application with subscription manageme
 
 This project is licensed under the MIT License.
 
-## 👥 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. 
